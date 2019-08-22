@@ -27,12 +27,14 @@ Temp prog: 27C
 - @1'48s => set ON
 
 **file B:**
+
 *Conditions initiales: ON*
 - @32s => de 27C à 30C (Je n'ai pas noté quand le fan c'est mis en fct...)
 - @1'29s => de 30 à 27C
 - @2'18s => de 27 à 30C (le fan c'est mis en fct à 2'31)
 
 **file C:**
+
 *Conditions initiales: ON*
 - @25s => set temp à 30C (le fan c'est mis en fonction a 38s)
 - @1'03s => set temp à 27C (le fan a stoppé a 1'15s)
