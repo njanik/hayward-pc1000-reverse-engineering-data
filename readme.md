@@ -10,41 +10,36 @@ Mode: Heat
 Temp out: 28C
 Temp prog: 27C
 
-------------------
-**file no-touch:**
-*Conditions initiales: ON*
-(rien modifié)
+**file no-touch:**  
+*Conditions initiales: ON*  
+- (rien modifié)
 
-------------------
-**file on-to-off:**
+**file on-to-off:**  
 *Conditions initiales: ON*
-@60s => set OFF
+- @60s => set OFF
 
-------------------
-**file A:**
+**file A:**  
 *Conditions initiales: OFF*
-@20s => set ON
-@35s => set OFF
-@50s => set ON
-@1'30s => set OFF
-@1'48s => set ON
+- @20s => set ON
+- @35s => set OFF
+- @50s => set ON
+- @1'30s => set OFF
+- @1'48s => set ON
 
-------------------
 **file B:**
 *Conditions initiales: ON*
-@32s => de 27C à 30C (Je n'ai pas noté quand le fan c'est mis en fct...)
-@1'29s => de 30 à 27C
-@2'18s => de 27 à 30C (le fan c'est mis en fct à 2'31)
+- @32s => de 27C à 30C (Je n'ai pas noté quand le fan c'est mis en fct...)
+- @1'29s => de 30 à 27C
+- @2'18s => de 27 à 30C (le fan c'est mis en fct à 2'31)
 
-------------------
 **file C:**
 *Conditions initiales: ON*
-@25s => set temp à 30C (le fan c'est mis en fonction a 38s)
-@1'03s => set temp à 27C (le fan a stoppé a 1'15s)
-@1'30s => set OFF
-@1'45s => set ON
-@2'20s => set OFF
-@2'30s => set ON
+- @25s => set temp à 30C (le fan c'est mis en fonction a 38s)
+- @1'03s => set temp à 27C (le fan a stoppé a 1'15s)
+- @1'30s => set OFF
+- @1'45s => set ON
+- @2'20s => set OFF
+- @2'30s => set ON
 
 *Les timings sont approximatif à 1 ou 2 secondes près...*
 
