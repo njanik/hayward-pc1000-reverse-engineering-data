@@ -1,3 +1,9 @@
+## UPDATE: reverse engineering is now complete. See the arduino sketch here: https://github.com/njanik/hayward-pool-heater-mqtt ##
+
+
+----
+
+
 Les fichiers avec l'extension logicdata sont des captures faites avec un petit logic analyser acheté 8$ sur ebay.
 Vous pouvez réouvrir les captures avec le logiciel de salae (https://www.saleae.com/downloads/)
 
